@@ -562,7 +562,7 @@ to{
     ;
     width: 40%;
     height: 41.5vw;
-    background-image: url("/part5img.webp");
+    background-image: url("/part5img.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -601,7 +601,7 @@ to{
     
 }
 .cant2img1{
-    background-image: url("/part5img2.webp");
+    background-image: url("/part5img2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 0% 20%;
@@ -609,7 +609,7 @@ to{
     width: 50%;
 }
 .cant2img2{
-    background-image: url("/part5img3.webp");
+    background-image: url("/part5img3.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 0% 20%;
@@ -645,7 +645,7 @@ to{
 }
 .lastshot1{
     
-    background-image: url("/part7img1.webp");
+    background-image: url("/part7img1.jpg");
     background-position: 0% 10%;
     
     background-size: cover;
