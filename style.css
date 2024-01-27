@@ -601,7 +601,7 @@ to{
     
 }
 .cant2img1{
-    background-image: url("/part5img2.jpg");
+    background-image: url("part5img2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 0% 20%;
@@ -609,7 +609,7 @@ to{
     width: 50%;
 }
 .cant2img2{
-    background-image: url("/part5img3.jpg");
+    background-image: url("part5img3.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 0% 20%;
